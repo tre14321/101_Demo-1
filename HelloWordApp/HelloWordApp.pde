@@ -1,5 +1,4 @@
 void setup()
 {
-  println("Hello from the second Person!");
-  //hello
+  println("Hello from the first person!");
 }
